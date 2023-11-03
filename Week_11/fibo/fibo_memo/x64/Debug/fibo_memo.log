@@ -1,0 +1,3 @@
+﻿  fibo_memo.c
+C:\Users\손채연\Desktop\3학년\3-1\문제해결기법\Week_11\fibo\fibo_memo\fibo_memo.c(21,9): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+  fibo_memo.vcxproj -> C:\Users\손채연\Desktop\3학년\3-1\문제해결기법\Week_11\fibo\x64\Debug\fibo_memo.exe
