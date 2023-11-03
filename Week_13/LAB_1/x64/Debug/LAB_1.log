@@ -1,3 +1,0 @@
-﻿  LAB_1.c
-C:\Users\손채연\Desktop\3학년\3-1\문제해결기법\Week_13\LAB_1\LAB_1.c(50,5): warning C4013: 'gets'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-  LAB_1.vcxproj -> C:\Users\손채연\Desktop\3학년\3-1\문제해결기법\Week_13\x64\Debug\LAB_1.exe
